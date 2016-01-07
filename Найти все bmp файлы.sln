@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Найти все bmp файлы", "Найти все bmp файлы\Найти все bmp файлы.vcxproj", "{C4282A19-4E33-429C-98C5-49CFF9DC5A62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E26E597F-E380-4FBF-9835-D03B8052C40B}"
+	ProjectSection(SolutionItems) = preProject
+		Найти все bmp файлы.txt = Найти все bmp файлы.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4282A19-4E33-429C-98C5-49CFF9DC5A62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4282A19-4E33-429C-98C5-49CFF9DC5A62}.Debug|Win32.Build.0 = Debug|Win32
+		{C4282A19-4E33-429C-98C5-49CFF9DC5A62}.Release|Win32.ActiveCfg = Release|Win32
+		{C4282A19-4E33-429C-98C5-49CFF9DC5A62}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
